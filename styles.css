@@ -76,6 +76,9 @@ figcaption{
     padding: 2px;
   }
   
+  .funParagraph {
+    color: green;
+  }
   /* Clearfix (clear floats) */
   .row::after {
     content: "";
